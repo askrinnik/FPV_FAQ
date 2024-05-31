@@ -2,6 +2,8 @@
 ## [Дроны/квадрокоптеры](Drones/README.md)
 ## [Аппаратура/пульты](Transmitters/README.md)
 ## [Симуляторы](Simulators/README.md)
+## [Обучение полетам](Tutorials.md)
+## [FPV Freestyle трюки](Tricks.md)
 ## Зарядные устройства
 
 &nbsp;
