@@ -1,17 +1,9 @@
-# Часто задаваемые вопросы по теме FPV 
-## [Дроны/квадрокоптеры](Drones/README.md)
-## [Аппаратура/пульты](Transmitters/README.md)
-## [Симуляторы](Simulators/README.md)
-## Зарядные устройства
+# О ресурсе
 
-&nbsp;
-&nbsp;
+Репозиторий проекта [FPV FAQ](https://askrinnik.github.io/FPV_FAQ/)
 
-# Другие ресурсы и общие материалы
-[Dron Docs. Cайт про FPV](https://propwashservice.ru/)  
-[YouTube канал Petrokey](https://www.youtube.com/@petrokey)  
-[YouTube канал Recopter](https://www.youtube.com/@recopter)  
-[YouTube: Базові поняття про FPV дрони та обладнання. Терміни + пояснення. (укр.)](https://www.youtube.com/watch?v=sfohRjv3Fyk)  
+Данные материалы исходят из личного опыта, наблюдений в FPV сообществе. Никакой рекламы, спонсорства, все по личной инициативе для продвижения хобби в массы. Приятного чтения!
 
+Проект базируется на генераторе [Github Pages](https://pages.github.com/)
 
-
+Содержимое страниц лежит в папке `docs`. Pull request'ы по улучшению ресурса приветствуются.
