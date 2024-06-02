@@ -1,0 +1,14 @@
+site_name: FPV FAQ
+site_url: https://github.com/askrinnik/FPV_FAQ
+nav:
+  - Home: README.md
+  - Дроны:
+      - 'Cetus X': drones/cetusx.md
+      - 'Mobula 7': drones/mobula7.md
+  - Симуляторы:
+      - Liftoff: simulators/liftoff.md
+  - Аппаратура: Transmitters/README.md
+  - Трюки: Tricks.md
+  - Руководства: Tutorials.md
+theme:
+  name: material
