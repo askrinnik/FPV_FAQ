@@ -2,6 +2,7 @@ name: Deploy Wiki
 
 on:
   workflow_dispatch:
+
   push:
     branches:
       - main
@@ -27,4 +28,5 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install mkdocs-material
+      - run: pip install mkdocs-gen-nav-plugin
       - run: mkdocs gh-deploy --force
