@@ -1,7 +1,15 @@
 # Обучение полетам на FPV дроне
-[Как начать летать в ACRO на FPV коптере. Автор: Alex All](https://www.youtube.com/watch?v=t9Nb8-qjZ3A)  
-[Как быстро и безопасно научиться летать на FPV дроне. Симуляторы. Автор: SetUp](https://www.youtube.com/watch?v=WUCFuBNKXnM)  
-[Учимся летать на FPV. С чего начать. Автор: Horizon](https://www.youtube.com/watch?v=fgZnj6Oskxk)  
+[Как начать летать в ACRO на FPV коптере. Автор: Alex All](https://www.youtube.com/watch?v=t9Nb8-qjZ3A)
+
+[Как быстро и безопасно научиться летать на FPV дроне. Симуляторы. Автор: SetUp](https://www.youtube.com/watch?v=WUCFuBNKXnM)
+
+[Учимся летать на FPV. С чего начать. Автор: Horizon](https://www.youtube.com/watch?v=fgZnj6Oskxk)
+
+[FPV Freestyle - 5 Mistakes To Avoid. Автор: Patrick Watkins](https://www.youtube.com/watch?v=GZ-5h-h3zCs)  
+Кратко основное:
+1. Практикуйтесь полетами в симуляторе. Хотя бы пару раз в неделю
+2. Если есть несколько дронов, лучше пусть они будут с одинаковыми характеристиками   
+3. Используйте одинаковые рейты на всех своих дронах  
 
 ## FPV Школа от Zbestreview
 [Часть 1. Как научиться летать на FPV квадрокоптере.](https://www.youtube.com/watch?v=NXwCDb7t6ds)  
