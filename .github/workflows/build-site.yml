@@ -5,7 +5,7 @@ on:
 
   push:
     branches:
-      - main
+      - MkDocs
 permissions:
   contents: write
 jobs:
