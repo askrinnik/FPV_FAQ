@@ -12,7 +12,8 @@
 ## Отдельные трюки
 #### Split-S: [1](https://www.youtube.com/watch?v=7A_mpyqKZyo), [2](https://www.youtube.com/watch?v=gepPp2OyXUQ)  
 #### Powerloop: [1](https://www.youtube.com/watch?v=Ip7JBqRNDzg), [2](https://www.youtube.com/watch?v=LTl0780qgCE)  
-#### Matty Flip (backwards powerloop): [1](https://www.youtube.com/watch?v=mZVjPSQHm9Y), [2](https://www.youtube.com/watch?v=625wUUsPqwk&list=WL&index=10&t=268s), [3](https://www.youtube.com/watch?v=REaUgDKeFXs)  
+#### Matty Flip (backwards powerloop): [1](https://www.youtube.com/watch?v=mZVjPSQHm9Y), [2](https://www.youtube.com/watch?v=625wUUsPqwk&list=WL&index=10&t=268s), [3](https://www.youtube.com/watch?v=REaUgDKeFXs), [4](https://www.youtube.com/watch?v=Twcj_8k_-vk)    
 #### Trippy Spin (Inverted Orbit): [1](https://www.youtube.com/watch?v=Lk9EkWkudN0), [2](https://www.youtube.com/watch?v=knTYPUcpjL8), [3](https://www.youtube.com/watch?v=M5YY4iC5z1o), [4](https://www.youtube.com/watch?v=HbUVa1IUfFs), [5](https://www.youtube.com/watch?v=-TxgEsk8T5I)  
+#### Juicy Flick: [1](https://www.youtube.com/watch?v=tbem8fUPPxU)  
 
 

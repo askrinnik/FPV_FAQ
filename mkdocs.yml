@@ -5,3 +5,4 @@ plugins:
       enabled: true
 theme:
   name: material
+  user_color_mode_toggle: true
