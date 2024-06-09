@@ -29,4 +29,5 @@ jobs:
             mkdocs-material-
       - run: pip install mkdocs-material
       - run: pip install mkdocs-gen-nav-plugin
+      - run: pip install mkdocs-autorefs
       - run: mkdocs gh-deploy --force

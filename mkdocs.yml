@@ -3,6 +3,10 @@ site_url: https://github.com/askrinnik/FPV_FAQ
 plugins:
   - gen_nav:
       enabled: true
+  - search
+  - autorefs
+markdown_extensions:
+  - attr_list
 theme:
   name: material
   palette:
