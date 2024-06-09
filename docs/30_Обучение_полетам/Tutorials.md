@@ -6,10 +6,11 @@
 [Учимся летать на FPV. С чего начать. Автор: Horizon](https://www.youtube.com/watch?v=fgZnj6Oskxk)
 
 [FPV Freestyle - 5 Mistakes To Avoid. Автор: Patrick Watkins](https://www.youtube.com/watch?v=GZ-5h-h3zCs)  
-Кратко основное:
-1. Практикуйтесь полетами в симуляторе. Хотя бы пару раз в неделю
+Кратко основное:  
+1. Практикуйтесь полетами в симуляторе. Хотя бы пару раз в неделю  
 2. Если есть несколько дронов, лучше пусть они будут с одинаковыми характеристиками   
 3. Используйте одинаковые рейты на всех своих дронах  
+![](PatrickRates.png)
 
 ## FPV Школа от Zbestreview
 [Часть 1. Как научиться летать на FPV квадрокоптере.](https://www.youtube.com/watch?v=NXwCDb7t6ds)  
@@ -35,39 +36,7 @@
 [Часть 2. Выходим на улицу](https://www.youtube.com/watch?v=oP8yQF9qAyQ)  
 [Часть 3. Базовое маневрирование](https://www.youtube.com/watch?v=KgFqu6Ezwrs)  
 
-## VORON FPV. [Обучение FPV-пилотированию](https://www.youtube.com/playlist?list=PLMoA2trsMVAs8t-lMZx2SRbxAjv4BzDx-)
-[История БпЛА](https://www.youtube.com/watch?v=VvAbLQmAFeY&list=PLMoA2trsMVAs8t-lMZx2SRbxAjv4BzDx-&index=8)  
-[Второй день обучения](https://www.youtube.com/watch?v=ltBb2hDDEeA&list=PLMoA2trsMVAs8t-lMZx2SRbxAjv4BzDx-&index=7)  
-1. Квадрокоптер от А до Я.   
-2. Составные части FPV-дрона и принцип его работы.  
-3. Знакомство с симуляторами
-
-[Третий день обучения](https://www.youtube.com/watch?v=p7rSIJ3x5pE&list=PLMoA2trsMVAs8t-lMZx2SRbxAjv4BzDx-&index=6)  
-1. FPV шлем, очки, монитор  
-2. Аппаратура управления дроном  
-3. Сопряжение аппаратуры и дрона (BIND)   
-4. Упражнения в симуляторах  
-
-[Четвертый день обучения](https://www.youtube.com/watch?v=OK9-O3dJPeI&list=PLMoA2trsMVAs8t-lMZx2SRbxAjv4BzDx-&index=5)  
-1. Стартовые наборы  
-2. Настройка аппаратуры  
-3. Рекомендации по управлению дроном  
-4. Упражнения в симуляторах
-
-[Пятый день обучения](https://www.youtube.com/watch?v=v3AGysBcQyM&list=PLMoA2trsMVAs8t-lMZx2SRbxAjv4BzDx-&index=4)
-1. Требования безопасности при работе с дронами  
-2. Упражнения в симуляторах
-
-[Шестой день обучения](https://www.youtube.com/watch?v=KJYJWwjajYo&list=PLMoA2trsMVAs8t-lMZx2SRbxAjv4BzDx-&index=3)  
-1. Основы пайки  
-2. Сборка дронов  
-3. Упражнения в симуляторах
-
-[Седьмой день обучения](https://www.youtube.com/watch?v=zGlX-YJa5Js&list=PLMoA2trsMVAs8t-lMZx2SRbxAjv4BzDx-&index=2)  
-Сборка дронов
-
-[Восьмой день обучения](https://www.youtube.com/watch?v=6a0UKjihmCA&list=PLMoA2trsMVAs8t-lMZx2SRbxAjv4BzDx-&index=1)  
-Настройка дрона в программе Betaflight
+## YouTube канал VORON FPV. [Обучение FPV-пилотированию](https://www.youtube.com/@VORONFPV)
 
 ## Перші кроки в FPV. Автор: Maysterfly (укр).
 [З чого почати у 2024 році. Який пульт та симулятор обрати](https://www.youtube.com/watch?v=4-Rw2KCSVqE)  
@@ -79,3 +48,5 @@
 [Урок 2. Режими польоту. Механіка керування. Секрети проходження трас.](https://www.youtube.com/watch?v=sw8pRztbcu4)  
 [Урок 3. Підготовка пілота до справжнього дрона. Вправи на маневренність.](https://www.youtube.com/watch?v=ghb3AcI2WfM)  
 [Урок 4. Секрети успішного приземлення.](https://www.youtube.com/watch?v=fvMaHOev6zQ)  
+[Урок 5. Секрети успішного зависання дроном на місці та польотів в приміщенні.](https://www.youtube.com/watch?v=7-YgtMsbIL0)  
+[Урок 6. Іспит на симуляторі перед справжнім fpv дроном.](https://www.youtube.com/watch?v=_pGjSxhaIS4)  
