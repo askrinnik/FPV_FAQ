@@ -1,4 +1,4 @@
-site_name: FPV FAQ
+site_name: База знаний по FPV
 site_url: https://github.com/askrinnik/FPV_FAQ
 plugins:
   - gen_nav:
