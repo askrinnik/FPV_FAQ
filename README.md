@@ -7,3 +7,16 @@
 Проект базируется на генераторе [Github Pages](https://pages.github.com/)
 
 Содержимое страниц лежит в папке `docs`. Pull request'ы по улучшению ресурса приветствуются.
+
+
+## Установка
+```
+pip install mkdocs
+pip install mkdocs-material
+pip install mkdocs-gen-nav-plugin
+```
+
+## Локальный запуск
+```
+mkdocs serve
+```
