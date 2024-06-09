@@ -1,4 +1,4 @@
-name: Deploy Wiki
+name: Build MkDocs site
 
 on:
   workflow_dispatch:

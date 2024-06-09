@@ -1,3 +1,4 @@
+[](){#bind_meteor85}
 # Аппаратура не биндится с Meteor85
 ## Описание проблемы
 RadioMaster Pocket ELRS 3.3.0. Bind фраза стоит. С этой фразой успешно коннекчусь к Meteor 65pro (ELRS 3.3.0, BetaFlight 4.3.0)
