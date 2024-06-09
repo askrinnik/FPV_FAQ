@@ -14,6 +14,7 @@
 pip install mkdocs
 pip install mkdocs-material
 pip install mkdocs-gen-nav-plugin
+pip install mkdocs-autorefs
 ```
 
 ## Локальный запуск
