@@ -13,3 +13,6 @@
  - Canopy: [Micro Canopy for HD Camera](https://betafpv.com/collections/canopy-holder/products/micro-canopy-for-hd-camera)
  - Receiver Option: ELRS 2.4G, SPI Frsky
  - Battery: [LAVA 2S 450mAh 75C Battery](https://betafpv.com/products/lava-2s-3s-4s-450mah-75c-battery-2pcs)
+
+## Bind
+Полетный контроллер имеет встроенный ELRS приемник подключенный по SPI порту
