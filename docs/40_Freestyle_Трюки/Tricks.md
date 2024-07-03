@@ -37,4 +37,7 @@
 #### Juicy Flick
 [How To Juicy Flick an FPV Drone For Beginner and Advanced Pilots, An In-Depth Look](https://www.youtube.com/watch?v=tbem8fUPPxU)  
 
+#### Dolphin Dive
+[FPV Trick Tutorial - DOLPHIN DIVE](https://www.youtube.com/watch?v=WuSz_mIioqE)  
+
 
