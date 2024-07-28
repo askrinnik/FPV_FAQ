@@ -12,6 +12,8 @@
 3. Используйте одинаковые рейты на всех своих дронах  
 ![](PatrickRates.png)
 
+[Поширені проблеми керування FPV Дроном у новачків. Автор: Є-Дрон](https://www.youtube.com/watch?v=3ZPLDRFWsD8)
+
 ## FPV Школа от Zbestreview
 [Часть 1. Как научиться летать на FPV квадрокоптере.](https://www.youtube.com/watch?v=NXwCDb7t6ds)  
 [Часть 2. Флипы, Ролы, Хитрый ролл, Кубик рубика, Орбит](https://www.youtube.com/watch?v=kgTE2nS0oHU)  
