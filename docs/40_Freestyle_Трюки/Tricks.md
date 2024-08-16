@@ -11,6 +11,8 @@
 
 ## Отдельные трюки
 
+[Fpv Freestyle - 14 TRICKS IN 10 min](https://www.youtube.com/watch?v=H0kxJqmjbgE)
+
 #### Split-S
 [FPV freestyle уроки. Split-S. (3)](https://www.youtube.com/watch?v=7A_mpyqKZyo)  
 [How To Perfect Split-S | FPV Trick Tutorial](https://www.youtube.com/watch?v=gepPp2OyXUQ)  
