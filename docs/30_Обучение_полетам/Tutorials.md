@@ -1,18 +1,23 @@
 # Обучение полетам на FPV дроне
-[Как начать летать в ACRO на FPV коптере. Автор: Alex All](https://www.youtube.com/watch?v=t9Nb8-qjZ3A)
+[Как начать летать в ACRO на FPV коптере. YouTube: Alex All](https://www.youtube.com/watch?v=t9Nb8-qjZ3A)
 
-[Как быстро и безопасно научиться летать на FPV дроне. Симуляторы. Автор: SetUp](https://www.youtube.com/watch?v=WUCFuBNKXnM)
+[Как быстро и безопасно научиться летать на FPV дроне. Симуляторы. YouTube: SetUp](https://www.youtube.com/watch?v=WUCFuBNKXnM)
 
-[Учимся летать на FPV. С чего начать. Автор: Horizon](https://www.youtube.com/watch?v=fgZnj6Oskxk)
+[Учимся летать на FPV. С чего начать. YouTube: Horizon](https://www.youtube.com/watch?v=fgZnj6Oskxk)
 
-[FPV Freestyle - 5 Mistakes To Avoid. Автор: Patrick Watkins](https://www.youtube.com/watch?v=GZ-5h-h3zCs)  
+[FPV Freestyle - 5 Mistakes To Avoid. YouTube: Patrick Watkins](https://www.youtube.com/watch?v=GZ-5h-h3zCs)  
 Кратко основное:  
 1. Практикуйтесь полетами в симуляторе. Хотя бы пару раз в неделю  
 2. Если есть несколько дронов, лучше пусть они будут с одинаковыми характеристиками   
 3. Используйте одинаковые рейты на всех своих дронах  
 ![](PatrickRates.png)
 
-[Поширені проблеми керування FPV Дроном у новачків. Автор: Є-Дрон](https://www.youtube.com/watch?v=3ZPLDRFWsD8)
+[The Most Asked Questions in FPV. YouTube: Patrick Watkins](https://www.youtube.com/watch?v=sP33Q2p1TJw) 
+ 
+[20 Most Asked FPV Questions. YouTube: Patrick Watkins](https://www.youtube.com/watch?v=MZ-oDthZ00w)
+
+
+[Поширені проблеми керування FPV Дроном у новачків. YouTube: Є-Дрон](https://www.youtube.com/watch?v=3ZPLDRFWsD8)
 
 ## FPV Школа от Zbestreview
 [Часть 1. Как научиться летать на FPV квадрокоптере.](https://www.youtube.com/watch?v=NXwCDb7t6ds)  
