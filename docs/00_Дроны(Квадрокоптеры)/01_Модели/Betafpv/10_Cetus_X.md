@@ -1,5 +1,9 @@
 # Cetus X
 
+## [Плейлист в YouTube от Petrokey с набором видео по Cetus X](https://www.youtube.com/watch?v=tGPvwgN4XSA&list=PLibQsrRt3X1cWiIiE2T3RKKdAgSZxIGjX)  
+Новичкам обязателен к просмотру
+
+## Отдельные видео
 [Betafpv Cetus X - угомонись! Дрон прыгает, дрейфует и прилипает к стенам. Настройка FPV для квартиры. YouTube: Petrokey](https://www.youtube.com/watch?v=kPr2hmY9g5g)  
 В этом видео:  
 - почему так сложно летать дома на Cetus X?

@@ -15,7 +15,7 @@
 Идем по адресу http://10.0.0.1  
 Прописываем значение в поле `Binding Phrase`  
 Нажимаем `Save`  
-[Видео процесса](SetBindPhraseOverWiFi.mp4)
+[Видео процесса](Tx_SetBindPhraseOverWiFi.mp4)
 
 
 
