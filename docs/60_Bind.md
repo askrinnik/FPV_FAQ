@@ -1,4 +1,4 @@
-# Bind апаратуры и дрона при протоколе связи ELRS
+# Bind апаратуры и дрона в системе ELRS
 
 ## Общая информация
 Работа по протоколу Express LRS позволяет связывать дрон и аппаратуру двумя способами: Bind по кнопке и через Bind фразу.  
@@ -46,7 +46,7 @@ ELRS приемник может быть подключен к полетном
  - Вводим значение в поле `Binding Phrase`
  - Нажимаем `Save`
 
-[Видео процесса на примере Meteor65pro](Rx_SetBindPhraseOverWiFi.mp4.mp4)
+[Видео процесса на примере Meteor65pro](Rx_SetBindPhraseOverWiFi.mp4)
  
 ### Приемник подключен по SPI
 На вкладке Порты ни на одном из портов НЕ включен `Serial Rx`  
@@ -74,3 +74,18 @@ ELRS приемник может быть подключен к полетном
 ### BETAFPV LiteRadio (???)
 
 
+## Полезные видео на тему Bind
+[Radiomaster Pocket - обзор, разбор, пейр. YouTube: Petrokey](https://www.youtube.com/watch?v=xYzz5JtX9GE)
+
+[ExpressLRS - соединить Betafpv Cetus, LiteRadio3 RadioMaster tx16s. версии, совместимость, настройка. YouTube: Petrokey](https://www.youtube.com/watch?v=cM5g9BC9sQY)
+
+[Betafpv Cetus X пэйр пульта бинд кнопкой. YouTube: Petrokey](https://www.youtube.com/watch?v=CByA9YKPEJI)
+
+[Я забыл BIND-фразу ELRS! Что делать? YouTube: 
+ZhukoRama FPVlog (ZRFPV)](https://www.youtube.com/watch?v=c6mdZVzCn58)
+
+[Как привязать пульт к квадрокоптеру BETAFPV. YouTube: Змей Горыныч](https://www.youtube.com/watch?v=fwcmUY4qMXs)
+
+[Як це все підключити? З'єднуємо пульт та FPV дрон і налаштовуємо відеозв'язок. ELRS і Crossfire. (укр.). YouTube: Є-Дрон](https://www.youtube.com/watch?v=US8rYxZ1YHw)
+
+[BETAFPV Meteor 65 Pro ELRS - How To Set Up and Bind (SPI Version). YouTube: Volaertus](https://www.youtube.com/watch?v=T3NA_eTy63k)
