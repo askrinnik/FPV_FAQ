@@ -3,7 +3,11 @@
 ## VIFLY Beacon Wireless Drone Buzzer
 [На Aliexpress.com](https://aliexpress.com/item/4000645203533.html)  
 ![](Buzzer_ViflyBeacon.png)  
-[Как не потерять дрон, или установка и тест Vifly beacon пищалки на Betafpv Cetus X FPV. YouTube: Petrokey](https://www.youtube.com/watch?v=jTDNMKAEFCI)
+[Как не потерять дрон, или установка и тест Vifly beacon пищалки на Betafpv Cetus X FPV. YouTube: Petrokey](https://www.youtube.com/watch?v=jTDNMKAEFCI)  
+
+Работой бузера доволен. 
+Я прикрепил на боковой луч Cetus X. На балансировку не повлияло. Правда при падении вверх ногами погнул зарядный разъем на бузере. Поэтому стал вешать снизу. Там он более защищенный...  м
+На Meteor85 тоже повесил под боковым лучом.
 
 ## JHE20B Mini Finder 5V 
 [На Aliexpress.com](https://aliexpress.com/item/1005004901077071.html)  
@@ -11,6 +15,7 @@
 [Cetus X Vifly Finder Mini installation - YouTube](https://www.youtube.com/shorts/3XbDSjdwDVc)  
 
 ### Подключение к Meteor75
+[Подключить неподключаемое - vifly mini на meteor75 где нет контактов BUZ. YouTube: Petrokey](https://www.youtube.com/watch?v=JfopONCaKm4)    
 На полетнике Meteor75 отсутствует пятка `buzz`.  
 Поэтому можно запитать от контактов `LED`  
 '+' на 5v  
