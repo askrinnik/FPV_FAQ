@@ -15,4 +15,10 @@
 [BetafpvCetus X - перегрев видео передатчика - часть 1. Отчего перегрев и как исправить. YouTube Petrokey](https://www.youtube.com/watch?v=T5I1-_kiTXA)  
 [Betafpv Cetus X - перегрев видео передатчика - часть 2. Таблица мощностей. Добавил 200мВт. YouTube Petrokey](https://www.youtube.com/watch?v=hDFj-GG1LZ8)
 
+## VTX+камера C04 (так называемый "бутреброд")
+[Страница модуля на сайте производителя](https://betafpv.com/products/c04-camera-and-vtx-module)  
+Обратите внимание, что у модулей разные коннекторы для разных контроллеров.  
+Betaflight FC с встроенным ELRS  
+Cetus FC с встроенным FrSky  
+
 
