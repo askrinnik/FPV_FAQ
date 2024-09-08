@@ -12,3 +12,8 @@ Open Source сообщество разработало свою систему 
 [Before First Flight](https://www.expresslrs.org/quick-start/pre-1stflight/)  
 
 [ELRS dipole antenna orientation - horizontal or vertical](https://intofpv.com/t-elrs-dipole-antenna-orientation-horizontal-or-vertical)
+
+## Отличия подключения через UART и  SPI
+Картинка взята из видео Петрокея [ExpressLRS - взгляд изнутри. Принципы, алгоритмы, форматы... Youtube: Petrokey](https://www.youtube.com/watch?v=WoXPkvHTBi4)   
+![](UART_vs_SPI.png)
+
