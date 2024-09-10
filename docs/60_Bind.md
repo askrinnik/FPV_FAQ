@@ -82,10 +82,15 @@ ELRS приемник может быть подключен к полетном
 В Betaflight Configurator идем на вкладку Приемник и вводим Bind фразу в поле `Binding фраза`  
 ![](SPI_BindPhrase.png)  
 
-
 ## Bind аппаратуры
+
 ### [Аппаратура на EdgeTX на примере RadioMaster Pocket](10_Аппаратура(Пульты)/90_Модели/10_Radiomaster/01_Pocket/10_Bind.md)  
-### BETAFPV LiteRadio (???)
+
+### BETAFPV LiteRadio 3
+Бинд фраза вводится в BETAFPV Configurator.  
+![](LiteRadio3_ELRS_BETAFPV_Configurator.jpg)  
+
+
 
 
 ## Полезные видео на тему Bind
