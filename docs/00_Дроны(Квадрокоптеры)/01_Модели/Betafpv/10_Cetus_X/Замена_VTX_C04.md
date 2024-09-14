@@ -7,6 +7,8 @@
 
 [Еще видео от Петра](https://www.youtube.com/watch?v=GuXjhjdSays) с [Happymodell OVX300 SmartAudio](https://www.aliexpress.com/item/1005003080175112.html) + [Caddx Ant Nano](https://www.aliexpress.com/item/4001223701881.html)
 
+Еще альтернатива VTX: [HGLRC Zeus nano VTX](https://vi.aliexpress.com/item/1005006739923410.html)
+
 Схема подключения оригинального бутерброда и альтернативы:
 ![](VTX_Camera_FC_schema.jpg)
 
