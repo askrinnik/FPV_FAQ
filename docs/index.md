@@ -9,6 +9,10 @@
 [Базові поняття про FPV дрони та обладнання. Терміни + пояснення. (укр.). YouTube: Є-Дрон](https://www.youtube.com/watch?v=sfohRjv3Fyk)  
 
 ## Другие ресурсы
-[Dron Docs. Cайт про FPV](https://propwashservice.ru/)  
-[YouTube канал Petrokey](https://www.youtube.com/@petrokey)  
+[Dron Docs. Cайт про FPV](https://propwashservice.ru/) 
+ 
+[YouTube канал Petrokey](https://www.youtube.com/@petrokey) 
+ 
 [YouTube канал Recopter](https://www.youtube.com/@recopter)  
+
+[FPV Know-It-All - The Ultimate FPV Shopping List by Joshua Bardwell](https://www.fpvknowitall.com/ultimate-fpv-shopping-list/)
