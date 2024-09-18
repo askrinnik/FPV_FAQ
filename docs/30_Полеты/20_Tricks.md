@@ -13,15 +13,6 @@
 
 [Fpv Freestyle - 14 TRICKS IN 10 min](https://www.youtube.com/watch?v=H0kxJqmjbgE)
 
-#### Split-S
-[FPV freestyle уроки. Split-S. (3)](https://www.youtube.com/watch?v=7A_mpyqKZyo)  
-[How To Perfect Split-S | FPV Trick Tutorial](https://www.youtube.com/watch?v=gepPp2OyXUQ)  
-
-#### Powerloop
-[How to Powerloop Obstacles SAFELY | FPV Trick Tutorial](https://www.youtube.com/watch?v=Ip7JBqRNDzg)  
-[How To Powerloop an FPV Drone For Beginner and Advanced Pilots](https://www.youtube.com/watch?v=LTl0780qgCE)  
-[FPV Tricks - Split S & Reverse Split S](https://www.youtube.com/watch?v=Iu7Q4SHjpjQ)
-
 #### Matty Flip (backwards powerloop)
 [How To: Matty Flip | FPV Tutorial](https://www.youtube.com/watch?v=mZVjPSQHm9Y)  
 [how to MATTYFLIP (backwards powerloop)](https://www.youtube.com/watch?v=625wUUsPqwk&list=WL&index=10&t=268s)  
@@ -30,6 +21,15 @@
 
 #### Orbit
 [How To Do FPV Orbits (as made famous by Mr. Steele)](https://www.youtube.com/watch?v=qycbKimdr_I)  
+
+#### Powerloop
+[How to Powerloop Obstacles SAFELY | FPV Trick Tutorial](https://www.youtube.com/watch?v=Ip7JBqRNDzg)  
+[How To Powerloop an FPV Drone For Beginner and Advanced Pilots](https://www.youtube.com/watch?v=LTl0780qgCE)  
+[FPV Tricks - Split S & Reverse Split S](https://www.youtube.com/watch?v=Iu7Q4SHjpjQ)
+
+#### Split-S
+[FPV freestyle уроки. Split-S. (3)](https://www.youtube.com/watch?v=7A_mpyqKZyo)  
+[How To Perfect Split-S | FPV Trick Tutorial](https://www.youtube.com/watch?v=gepPp2OyXUQ)  
 
 #### Trippy Spin (Inverted Orbit):
 [Trippy spin или обратная орбита. Научиться за один вечер?](https://www.youtube.com/watch?v=Lk9EkWkudN0)  
