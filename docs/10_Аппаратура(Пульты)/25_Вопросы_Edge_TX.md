@@ -1,5 +1,7 @@
 # Вопросы и решения для пультов с прошивкой EdgeTX
 
+## [EdgeTX User Manual](https://manual.edgetx.org/)
+
 ## Первичная настройка аппаратуры на Edge TX 
 <font color="red">**Видео от Валентины.**</font>    
 [Гайд для начинающих: как настроить аппаратуру на EdgeTx [Radiomaster Boxer ELRS]. YouTube: PropWash Service](https://www.youtube.com/watch?v=wU67j2G5Ibg)
