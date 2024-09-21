@@ -12,6 +12,10 @@
 3. Покетрейт на 250 Гц без букв спереди  
 4. ADC фильтр отключить  
 
+## Прошивка ELRS передатчика
+[ExpressLRS.RU](https://expresslrs.ru/Manuals/Firmware/Transmitters/Flashing-internal-tx/)  
+[Updating Internal ExpressLRS Module](https://oscarliang.com/setup-radiomaster-pocket/#Updating-Internal-ExpressLRS-Module)
+
 ## Голосовые сообщения при нажатии кнопок
 Разберем на примере привязки голосовой озвучки при нажатии кнопки `ARM` (SA).  
  - Нажимаем кнопку `MODEL`. Попадаем в список моделей. Допустим мы хотим это настроить на активной модели.  
