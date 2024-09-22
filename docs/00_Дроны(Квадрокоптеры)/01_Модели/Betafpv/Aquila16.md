@@ -3,6 +3,9 @@
 [На сайте производителя](https://betafpv.com/products/aquila16-fpv-kit)  
 ![](Aquila16.png)
 
+[Betafpv Aquila16 - обзор, разбор, тест и сравнение с Cetus X. YouTube: Petrokey](https://www.youtube.com/watch?v=6h9S6akSipU)  
+[Проблема с Betafpv Aquila. LiteRadio2se не работает с компом и симулятором. YouTube: Petrokey](https://www.youtube.com/watch?v=1lq6xgl1Efk)  
+
 ## Мнение пользователя @three_sss
 Всем привет. Aquila16, мой первый дрон. Отзыв о самом дроне, опыт использования и доработки по замене камеры. Может кому будет полезно.
 
