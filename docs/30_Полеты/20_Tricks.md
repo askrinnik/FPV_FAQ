@@ -9,6 +9,8 @@
 [FPV Trick Tutorials - INTERMEDIATE](https://www.youtube.com/playlist?list=PLj23ZLg5V56qvExRVYQkBq6bUsJjwHQqZ)  
 [FPV Trick Tutorials - ADVANCED](https://www.youtube.com/playlist?list=PLj23ZLg5V56q99molL1nY1XVa0j42cnzl)  
 
+## [Telegram channel 'FPV Tricks'](https://t.me/fpv_tricks)
+
 ## Отдельные трюки
 
 [Fpv Freestyle - 14 TRICKS IN 10 min](https://www.youtube.com/watch?v=H0kxJqmjbgE)
