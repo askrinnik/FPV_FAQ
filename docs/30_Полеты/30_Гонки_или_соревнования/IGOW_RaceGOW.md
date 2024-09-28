@@ -43,14 +43,15 @@ RaceGOW (Race Game of Whoops) - это онлайн соревнование н�
 Если летать в VelociDrone FPV Simulator, то лучше в режиме Nemesis. Тогда будут видны трассы близких по времени соперников.
 
 #### Track1
-[RaceGOW3 Track1 created by RECK and Sponsored by Tiny Whoop: Build and Flythrough](https://www.youtube.com/watch?v=fNKNY7rtGjI)
-
+[RaceGOW3 Track1](https://www.youtube.com/watch?v=fNKNY7rtGjI)  
 [Leaderboard в Velocidrone](https://velocidrone.co.uk/leaderboard/42/1584/All)
 
+[RaceGOW3 Track2](https://www.youtube.com/watch?v=WmX93BERR5Q)
+
 ### RaceGOW2
-[RaceGOW2 Build & Flythrough of Track1](https://www.youtube.com/watch?v=Y0apC4zXNHE)  
-[RaceGOW2 Build & Flythrough of Track2](https://www.youtube.com/watch?v=Zx6jlNR8veA)  
-[RaceGOW2 Build & Flythrough of Track3](https://www.youtube.com/watch?v=_AZxRec6hM4)  
-[RaceGOW2 Build & Flythrough of Track4](https://www.youtube.com/watch?v=dz3BESXIe4E)  
-[RaceGOW2 Build & Flythrough of Track5](https://www.youtube.com/watch?v=UgJViU9MNPU)  
-[RaceGOW2 Build & Flythrough of Track6](https://www.youtube.com/watch?v=fHGM_IRUCyE)  
+[RaceGOW2 Track1](https://www.youtube.com/watch?v=Y0apC4zXNHE)  
+[RaceGOW2 Track2](https://www.youtube.com/watch?v=Zx6jlNR8veA)  
+[RaceGOW2 Track3](https://www.youtube.com/watch?v=_AZxRec6hM4)  
+[RaceGOW2 Track4](https://www.youtube.com/watch?v=dz3BESXIe4E)  
+[RaceGOW2 Track5](https://www.youtube.com/watch?v=UgJViU9MNPU)  
+[RaceGOW2 Track6](https://www.youtube.com/watch?v=fHGM_IRUCyE)  
