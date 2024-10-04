@@ -3,3 +3,5 @@
 На случай, если не откроется [та же статья в виде PDF файла](Объяснение_LQ_и_RSSI.pdf)
 
 [LQ and RSSI Explained for ExpressLRS and Crossfire Radio Links](https://oscarliang.com/lq-rssi/)
+
+[Signal Health](https://www.expresslrs.org/info/signal-health/)
