@@ -62,6 +62,8 @@
 
 ## Изменение голосовой озвучки
 [Adding sounds to your EdgeTX SD Card / No sounds after upgrading to EdgeTX](https://www.youtube.com/watch?v=jZ29qmtMSyU)  
+
+Здесь много языковых файлов:  
 [EdgeTX-edgetx-sdcard-sounds- Sound packs for EdgeTX](https://github.com/EdgeTX/edgetx-sdcard-sounds)
 
 Можно подготовить свои голосовые файлы:  
