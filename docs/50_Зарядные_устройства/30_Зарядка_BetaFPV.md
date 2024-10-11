@@ -1,4 +1,4 @@
-# Зарядные устрйосва от betafpv
+# Зарядные устройства от BETAFPV
 
 ## BT2.0 Battery Charger and Voltage Tester V2
 [На сайте производителя](https://betafpv.com/products/bt2-0-battery-charger-and-voltage-tester-v2)  
