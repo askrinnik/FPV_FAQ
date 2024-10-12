@@ -48,6 +48,8 @@ RaceGOW (Race Game of Whoops) - это онлайн соревнование н�
 
 [RaceGOW3 Track2](https://www.youtube.com/watch?v=WmX93BERR5Q)
 
+[RaceGOW3 Track3](https://www.youtube.com/watch?v=Ys2NeVkt23w)
+
 ### RaceGOW2
 [RaceGOW2 Track1](https://www.youtube.com/watch?v=Y0apC4zXNHE)  
 [RaceGOW2 Track2](https://www.youtube.com/watch?v=Zx6jlNR8veA)  

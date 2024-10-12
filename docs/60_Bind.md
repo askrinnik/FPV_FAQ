@@ -91,8 +91,6 @@ ELRS приемник может быть подключен к полетном
 ![](LiteRadio3_ELRS_BETAFPV_Configurator.jpg)  
 
 
-
-
 ## Полезные видео на тему Bind
 [Radiomaster Pocket - обзор, разбор, пейр. YouTube: Petrokey](https://www.youtube.com/watch?v=xYzz5JtX9GE)
 
@@ -108,3 +106,5 @@ ZhukoRama FPVlog (ZRFPV)](https://www.youtube.com/watch?v=c6mdZVzCn58)
 [Як це все підключити? З'єднуємо пульт та FPV дрон і налаштовуємо відеозв'язок. ELRS і Crossfire. (укр.). YouTube: Є-Дрон](https://www.youtube.com/watch?v=US8rYxZ1YHw)
 
 [BETAFPV Meteor 65 Pro ELRS - How To Set Up and Bind (SPI Version). YouTube: Volaertus](https://www.youtube.com/watch?v=T3NA_eTy63k)
+
+[Подключить Betafpv LiteRadio3 к UART ExpressLRS (Meteor75). YouTube Petrokey](https://www.youtube.com/watch?v=r3wsgmIChx0)
