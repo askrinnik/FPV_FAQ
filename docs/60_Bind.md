@@ -91,7 +91,9 @@ ELRS приемник может быть подключен к полетном
 ![](LiteRadio3_ELRS_BETAFPV_Configurator.jpg)  
 
 
-## Полезные видео на тему Bind
+## Полезные статьи и видео на тему Bind
+[ExpressLRS.RU: биндинг](https://expresslrs.ru/Manuals/Binding/)
+
 [Radiomaster Pocket - обзор, разбор, пейр. YouTube: Petrokey](https://www.youtube.com/watch?v=xYzz5JtX9GE)
 
 [ExpressLRS - соединить Betafpv Cetus, LiteRadio3 RadioMaster tx16s. версии, совместимость, настройка. YouTube: Petrokey](https://www.youtube.com/watch?v=cM5g9BC9sQY)
