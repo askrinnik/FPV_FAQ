@@ -19,8 +19,12 @@
 
 [Betafpv Cetus X - угомонись! Дрон прыгает, дрейфует и прилипает к стенам. Настройка FPV для квартиры. YouTube: Petrokey](https://www.youtube.com/watch?v=kPr2hmY9g5g)
 
+### [Конвертер рейтов](https://rates.metamarc.com/)
+
 ## PID
 [О PID регуляторе простым языком. YouTube: microhobby](https://www.youtube.com/watch?v=NbEhtZlSa6A)
+
+[Betaflight - теория PID и Фильтров. Youube: fpv_am](https://www.youtube.com/watch?v=YjYo7p7Nu9o)
 
 [Что такое PID, на что влияет и как настроить - Все о квадрокоптерах - PROFPV.RU](https://profpv.ru/chto-takoe-pid-na-chto-vliyaet-i-kak-nastroit/)
 
@@ -28,4 +32,5 @@
 
 [КАК НАСТРОИТЬ FPV ДРОН - PID и ФИЛЬТРЫ для НОВИЧКОВ - Betaflight 4.4. YouTube: recopter](https://www.youtube.com/watch?v=X5IRArDcGx8)
 
-[Налаштування PID регулятора для FPV дронів в Betaflight. Теоретична частина. YouTube: Aves Lab](https://www.youtube.com/watch?v=NlqPHb28eaw)
+[Налаштування PID регулятора для FPV дронів в Betaflight. Теоретична частина. YouTube: Aves Lab](https://www.youtube.com/watch?v=NlqPHb28eaw)  
+[Практичні поради з налаштування PID регулятора Betaflight для FPV дронів. YouTube: Aves Lab](https://www.youtube.com/watch?v=76FeOTWqC_Y)
